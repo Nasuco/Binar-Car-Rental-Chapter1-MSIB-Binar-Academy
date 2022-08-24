@@ -70,6 +70,13 @@ body {
   background-color: #04AA6D;
   color: white;
 }
+
+/* @media (max-width: 400px) {
+    .carousel-inner {
+        max-width: 150%;
+    }
+} */
+
 .footer-link {
     text-decoration: none;
     color: black;
